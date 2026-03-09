@@ -1,4 +1,3 @@
-# Battery Report Analyzer
 import sys
 import json
 from datetime import datetime, timedelta
