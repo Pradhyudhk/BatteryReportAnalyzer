@@ -1,6 +1,5 @@
 # BatteryReportAnalyzer
 
-> ⚠️ **NOTICE: We are currently migrating this project from a Python/PyQt5 Desktop Application to a modern Web Application using React and TypeScript. Expect major changes to the codebase.**
 
 Desktop application that parses Windows Battery Report (`.html`) files and visualizes battery health, degradation, usage, and provides useful predictions
 
