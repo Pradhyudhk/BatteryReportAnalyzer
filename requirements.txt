@@ -1,5 +1,10 @@
-PyQt5
-beautifulsoup4
-numpy
-scikit-learn
-pyqtgraph
+# UI & Plotting
+PyQt5>=5.15.0
+pyqtgraph>=0.13.0
+
+# Data Processing & ML
+numpy>=1.24.0
+scikit-learn>=1.2.0
+
+# HTML Parsing
+beautifulsoup4>=4.12.0
